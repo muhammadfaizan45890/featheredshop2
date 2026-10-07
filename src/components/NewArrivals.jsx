@@ -201,9 +201,9 @@ const api = createApi();
    ════════════════════════════════════════════════════════════ */
 const SAMPLE_IMAGES = {
   sneakers:
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxnhHuQOjuoidITBIq",
+    "https://www.runstorezurich.com/cdn/shop/files/Image5_f0a76dea-2c2e-456d-8e6f-c9ed8b6675a8.jpg?v=1790604981&width=1445",
   sneakers2:
-    "https://cdn.media.amplience.net/i/scvl/178740_416651_1?fmt=auto&w=640",
+    "https://www.runstorezurich.com/cdn/shop/files/Image5_f0a76dea-2c2e-456d-8e6f-c9ed8b6675a8.jpg?v=1790604981&width=1445",
   running:
     "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=800&q=80",
   boots:
