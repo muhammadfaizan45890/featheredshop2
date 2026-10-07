@@ -201,9 +201,9 @@ const api = createApi();
    ════════════════════════════════════════════════════════════ */
 const SAMPLE_IMAGES = {
   sneakers:
-    "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=80",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxnhHuQOjuoidITBIq",
   sneakers2:
-    "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?w=800&q=80",
+    "https://cdn.media.amplience.net/i/scvl/178740_416651_1?fmt=auto&w=640",
   running:
     "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=800&q=80",
   boots:
