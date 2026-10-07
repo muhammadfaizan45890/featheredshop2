@@ -213,11 +213,11 @@ const SAMPLE_IMAGES = {
   running2:
     "https://cdn-images.farfetch-contents.com/20/66/21/46/20662146_50561305_600.jpg",
   boots2:
-    "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?w=800&q=80",
+    "https://cdn.media.amplience.net/i/scvl/185891_413909_1?fmt=auto&w=640",
   sneakers4:
     "https://cdn-images.farfetch-contents.com/20/66/21/46/20662146_50561305_600.jpg",
   running3:
-    "https://images.unsplash.com/photo-1552346154-21d32810aba3?w=800&q=80",
+    "https://cdn.media.amplience.net/i/scvl/185891_413909_1?fmt=auto&w=640",
 };
 
 const SAMPLE_PRODUCTS = [
