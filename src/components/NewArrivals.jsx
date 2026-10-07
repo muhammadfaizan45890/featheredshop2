@@ -207,15 +207,15 @@ const SAMPLE_IMAGES = {
   running:
     "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=800&q=80",
   boots:
-    "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=800&q=80",
+    "https://cdn-images.farfetch-contents.com/20/66/21/46/20662146_50561305_600.jpg",
   sneakers3:
     "https://images.unsplash.com/photo-1600269452121-4f2416e55c28?w=800&q=80",
   running2:
-    "https://images.unsplash.com/photo-1584735175315-9d5df23860e6?w=800&q=80",
+    "https://cdn-images.farfetch-contents.com/20/66/21/46/20662146_50561305_600.jpg",
   boots2:
     "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?w=800&q=80",
   sneakers4:
-    "https://images.unsplash.com/photo-1597045566677-8cf032ed6634?w=800&q=80",
+    "https://cdn-images.farfetch-contents.com/20/66/21/46/20662146_50561305_600.jpg",
   running3:
     "https://images.unsplash.com/photo-1552346154-21d32810aba3?w=800&q=80",
 };
